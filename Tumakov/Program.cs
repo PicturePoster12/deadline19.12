@@ -5,10 +5,10 @@ namespace Tumakov
     {
         static void Main()
         {
-            //Task1();
-            //Task2();
+            Task1();
+            Task2();
             Task3();
-            //Task4();
+            Task4();
         }
         static void Task1()
         {
